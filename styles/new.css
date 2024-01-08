@@ -3,18 +3,32 @@
     border-radius: 16px;
     height: 600px;
     width: 1320px;
-    color: white;
-    text-align: center;
-    display: block;
+    background-size: cover;
+    background-position: center;
 }
 .block-word{
     display:block;
 }
 #bold{
     padding: 233px 344px 177px 344px;
+    color:#FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
 }
 #happy{
     padding: 177px 531px 383px 530px;
+    color:#FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 #off{
     color:#F00;
@@ -24,4 +38,33 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+#holiday{
+    color:#F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#categories{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#photo2{
+    width: 802.9px;
+    height: 500px;
+    position:absolute;
+}
+/* .container2{
+    margin: 426px 258.1px 120px 259px;
+} */
+.container1{
+    margin: 120px 258.1px 120px 259px;
 }
