@@ -133,4 +133,49 @@
 .fifth-part{
     display:inline;
 }
+#fic{
+    font-size: 24px;
+}
+.sale{
+    font-size: 72px;
+}
+#holiday{
+    color:#F00;
+    font-size: 72px;
+}
+.choto2{
+    font-size: 20px;
+}
+.section{
+    display:block;
+}.sixth-part{
+    display:block;
+}
+.img-part1{
+    display:inline;
+}
+.img-part2{
+    display:inline;
+}
+.group44{
+    width:206px;
+    height:206px;
+}
+.rec1{
+    width:429px;
+    height:433px;
+    border-radius: 16px 16px 0px 0px ;
+}
+.rec2{
+    width:1320px;
+    height:229px;
+    border-radius: 16px 0px 16px 16px;
+}
+.group75{
+    width:4px;
+    height:212px;
+}
+.head1{
+    text-align: center;
+}
 
