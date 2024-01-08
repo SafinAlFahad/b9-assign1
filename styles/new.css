@@ -228,4 +228,39 @@
     display:block;
     text-align: center;
 }
+.line{
+    font-size: 24px;
+    color:#FFF;
+}
+.foot{
+    display:block;
+    background-color: rgb(27, 25, 25);
+    text-align: center;
+    justify-content: center;
+}
+.foot-section1{
+    display:inline;
+}
+.foot-div1{
+    display:block;
+}
+.foot-div2{
+    display:block;
+}
+.foot-section2{
+    display:inline;
+    justify-content: center;
+}
+.foot-photo{
+    width:64px;
+    height:64px;
+}
+.foot-section3{
+    display:inline;
+}
+hr{
+    height: 1px;
+    width: 1320px;
+}
+
 
