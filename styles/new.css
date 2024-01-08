@@ -178,4 +178,29 @@
 .head1{
     text-align: center;
 }
-
+#best{
+    font-size: 24px;
+    color:#F00;
+}
+#port{
+    font-size: 48px;
+}
+#choto-new{
+    font-size: 20px;
+}
+.seventh-part{
+    display:block;
+}
+.photo1{
+    display:inline;
+}
+.photo2{
+    display:inline;
+}
+.section1{
+    display:block;
+}
+.gift-photo{
+    width:424px;
+    height:450px;
+}
