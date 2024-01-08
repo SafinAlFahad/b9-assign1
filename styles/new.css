@@ -1,0 +1,27 @@
+.first-part{
+    background: url('../resources/Banner\ Image.png') no-repeat;
+    border-radius: 16px;
+    height: 600px;
+    width: 1320px;
+    color: white;
+    text-align: center;
+    display: block;
+}
+.block-word{
+    display:block;
+}
+#bold{
+    padding: 233px 344px 177px 344px;
+}
+#happy{
+    padding: 177px 531px 383px 530px;
+}
+#off{
+    color:#F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
