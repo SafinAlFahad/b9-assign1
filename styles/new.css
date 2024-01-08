@@ -5,7 +5,12 @@
     width: 1320px;
     background-size: cover;
     background-position: center;
+   
 }
+/* header{
+    margin: 120px 120px 120px 120px;
+    display: block;
+}  */
 .block-word{
     display:block;
 }
@@ -62,9 +67,39 @@
     height: 500px;
     position:absolute;
 }
-/* .container2{
+/* .container1{
     margin: 426px 258.1px 120px 259px;
 } */
-.container1{
+.second-part{
     margin: 120px 258.1px 120px 259px;
+}
+.third-part{
+    display: block;
+    background-image: url('../resources/Vectorrr.png') no-repeat;
+    border-radius: 16px;
+    height: 600px;
+    width: 1320px;
+    background-size: cover;
+    background-position: center;
+    color:#FFF;
+}
+#btn{
+    color:#FFF;
+}
+.forth{
+    border: 2px;
+    background-color: pink;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+}
+.btn2{
+    color:#FFF;
+    background-color: #F00;
+}
+.red-word{
+    color:red;
+}
+.text-area{
+    padding: 100px 386px 214px 385px;
 }
