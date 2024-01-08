@@ -204,3 +204,28 @@
     width:424px;
     height:450px;
 }
+.eighth-part{
+    display:block;
+    background-color: pink;
+    justify-content: center;
+}
+.letter-photo{
+    width:150px;
+    height:150px;
+}
+.sub{
+    font-size: 48px;
+}
+.las{
+    font-size: 20px;
+}
+.btn-sub{
+    color:#FFF;
+    background-color:#F00;
+}
+.content-eight{
+    justify-content: center;
+    display:block;
+    text-align: center;
+}
+
