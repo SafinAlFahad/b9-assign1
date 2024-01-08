@@ -86,7 +86,7 @@
 #btn{
     color:#FFF;
 }
-.forth{
+.forth-part{
     border: 2px;
     background-color: pink;
     width: 1320px;
@@ -103,3 +103,34 @@
 .text-area{
     padding: 100px 386px 214px 385px;
 }
+.red-word1{
+    color:#F00;
+    font-size: 24px;
+}
+.come{
+    font-size: 48px;
+}
+.choto{
+    font-size: 20px;
+}
+.round-image{
+    border: 15px solid #F00;
+    border-radius: 463px;
+    width: 463px;
+    height: 463px;
+    padding: 20px;
+}
+.red-word2{
+    font-size: 48px;
+}
+.choto1{
+    font-size: 20px;
+}
+.happy-image{
+    width: 140px;
+    height: 140px;
+}
+.fifth-part{
+    display:inline;
+}
+
